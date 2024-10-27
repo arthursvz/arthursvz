@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**arthursvz/arthursvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm Arthur Sauvezie, a french student in the ENSEEIHT Engineering School in Toulouse,FRANCE.
+🌱 The ENSEEIHT is the National Superior School of Electrotechnic, Electronic, Computer Sciences, Hydraulic and Telecommunication. I am currently in the Comupter Sciences Department.
+📚 I study Computer Sciences, Applied Mathematics, Network and Telecommunication to prepare for the Ingénieur ENSEEIHT Informatiques & Télécommunications diploma.
 
-Here are some ideas to get you started:
+🔭 Currently I know how to use Scratch, Python, Ada, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I want to learn Svelte, and Docker.
+
+I'm deeply interressted in Cybersecurity and Embed Programms for Aeronautic and Spaces System.
+
+💬 Ask me about the French Engineer Formation, the ENSEEIHT or the cursus Classes Préparatoires aux Grandes Ecoles.
+
+📫 How to reach me:
+  - Mail : arthur.sauvezie[at]etu.inp-n7.fr
+  - Github
+  - LinkedIn
+  - You can also visit my Github page where you will find my Curiculum Vitae
